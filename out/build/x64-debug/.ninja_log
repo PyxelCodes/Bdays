@@ -1,0 +1,18 @@
+# ninja log v5
+7	1084	7195262681236793	CMakeFiles/Birthdays.dir/src/printTable.cpp.obj	8b83c1893ff518f9
+10	1092	7195262681401798	CMakeFiles/Birthdays.dir/src/readConfig.cpp.obj	389db6def0c768cb
+13	1095	7195262681436789	CMakeFiles/Birthdays.dir/src/configToBday.cpp.obj	5eea55f2bb12b823
+1	1333	7195262683821794	CMakeFiles/Birthdays.dir/src/getConfigPath.cpp.obj	f31a8ab29149dfc1
+4	2278	7195262693251779	CMakeFiles/Birthdays.dir/src/Birthdays.cpp.obj	b07992cf73d1d76
+2278	2503	7195262695426853	Birthdays.exe	681a659eac710e37
+0	791	7195264226767623	CMakeFiles/Birthdays.dir/src/configToBday.cpp.obj	5eea55f2bb12b823
+791	906	7195264227722561	Birthdays.exe	681a659eac710e37
+0	774	7195266202349197	CMakeFiles/Birthdays.dir/src/configToBday.cpp.obj	5eea55f2bb12b823
+0	2034	7195267110923945	CMakeFiles/Birthdays.dir/src/Birthdays.cpp.obj	b07992cf73d1d76
+5	824	7195267659226246	CMakeFiles/Birthdays.dir/src/printTable.cpp.obj	8b83c1893ff518f9
+1	2075	7195267671761235	CMakeFiles/Birthdays.dir/src/Birthdays.cpp.obj	b07992cf73d1d76
+4	792	7195268316999189	CMakeFiles/Birthdays.dir/src/configToBday.cpp.obj	5eea55f2bb12b823
+0	2068	7195268566748455	CMakeFiles/Birthdays.dir/src/Birthdays.cpp.obj	b07992cf73d1d76
+2068	2182	7195268567668712	Birthdays.exe	681a659eac710e37
+0	784	7195269461783844	CMakeFiles/Birthdays.dir/src/configToBday.cpp.obj	5eea55f2bb12b823
+784	887	7195269462618845	Birthdays.exe	681a659eac710e37
